@@ -30,6 +30,9 @@ git commit -v
 git commit -m "Commit description here"
 # commit with message
 
+git commit -a
+# add and commit
+
 git log
 # show history
 
@@ -92,3 +95,9 @@ git tag --list pattern
 
 git tag -a "1.1" -m "This is my annotated tag"
 # create annotated tag (tag with message)
+
+git show "1.1"
+# show tag
+
+git push origin --tags
+# push tags to origin
