@@ -47,3 +47,12 @@ git log --since "2 months"
 
 git log --graph
 # show commits in graph format
+
+git commit --amend
+# open prev commit message and updates prev commit (join prev commit with current one)
+
+git revert id_of_commit (from git log)
+# revert commit (creates new commit with reverting orriginal one)
+
+git clone https://github.com/atk0dev/cheat-sheet.git
+# clone remote repo into cheat-sheet folder
