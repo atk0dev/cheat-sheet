@@ -23,3 +23,6 @@ git diff --staged
 
 git commit
 # commit staged files
+
+git commit -v
+# detailed output about what is going to be committed
