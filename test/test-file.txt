@@ -4,3 +4,7 @@ with several lines
 123
 
 del this line
+
+
+just added new line
+

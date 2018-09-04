@@ -67,3 +67,10 @@ git remote add new-remote http://new-remote.com
 git remote add origin https://github.com/atk0dev/cheat-sheet.git
 git push -u origin master
 #add remote and push (from github)
+
+
+git fetch origin
+# get remote repository (does not merge)
+
+git merge origin/master master
+# updated local master branch with commits from remote master branch
