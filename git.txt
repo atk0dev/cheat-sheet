@@ -28,3 +28,4 @@ git commit -v
 # detailed output about what is going to be committed (it takes output form git diff)
 
 git commit -m "Commit description here"
+# commit with message
