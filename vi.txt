@@ -7,6 +7,12 @@ k
 q
 # exit
 
+d
+# scroll pages down
+
+d
+# scroll pages up
+
 vi new_vi_file.txt 
 # open or create file
 

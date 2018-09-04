@@ -29,3 +29,21 @@ git commit -v
 
 git commit -m "Commit description here"
 # commit with message
+
+git log
+# show history
+
+git log -2
+# display 2 latest log entries
+
+git log -p
+# display patch made in each commit (it is similar to: git diff)
+
+git log --pretty=oneline
+# show log with one line per commit (oneline, full, fuller)
+
+git log --since "2 months"
+# show log since 2 month ago (d key goes down over pages, u - scroll up)
+
+git log --graph
+# show commits in graph format
