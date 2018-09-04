@@ -56,3 +56,14 @@ git revert id_of_commit (from git log)
 
 git clone https://github.com/atk0dev/cheat-sheet.git
 # clone remote repo into cheat-sheet folder
+
+git remote
+# show remotes of the repo
+
+git remote add new-remote http://new-remote.com
+# add new remote to current repo
+
+
+git remote add origin https://github.com/atk0dev/cheat-sheet.git
+git push -u origin master
+#add remote and push (from github)
