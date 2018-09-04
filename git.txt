@@ -74,3 +74,21 @@ git fetch origin
 
 git merge origin/master master
 # updated local master branch with commits from remote master branch
+
+git push origin master
+# push local master branch to origin remote
+
+git remote show origin
+# show detailed information about remotes (url, branch)
+
+git pull
+# this is an aliss for 2 commands: git fetch + git merge origin/master master
+
+git tag 
+# list all tags in the repo in a-z order
+
+git tag --list pattern
+# search over tags
+
+git tag -a "1.1" -m "This is my annotated tag"
+# create annotated tag (tag with message)
