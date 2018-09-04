@@ -1,0 +1,25 @@
+github repo: https://github.com/atk0dev/cheat-sheet.git
+
+
+git init
+# create new git repo
+
+git status
+# state of git
+
+git add file_name.txt
+# add file to git so it can track file changes
+# pass file name or folder name (all files in folder wil be added to tracking area)
+
+git add .
+# add all untracked files to gitrepo
+# adds exact content of the file at that time to the staging area
+
+git diff
+# changes in files
+
+git diff --staged
+# diff in staged but not yet committed files
+
+git commit
+# commit staged files

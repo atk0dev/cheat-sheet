@@ -1,0 +1,33 @@
+pwd
+# print current directory
+
+ls
+# list current directory (tabs for autocomplete)
+
+cd
+# change directory (.. /)
+
+mkdir new_folder
+# create new folder
+
+mv a_test_file.txt new_folder/
+# move test file to new folder
+
+cp a_test_file.txt new_test_file.txt
+# copy test file to new test file
+
+cat a_test_file.txt
+# print test file to console
+
+rm txt new_test_file.txt
+# remove test file
+
+rm -r new_folder
+# remove folder
+
+ls -a
+# show all files in folder including hidden
+
+ls -l
+# show folder content in table format
+

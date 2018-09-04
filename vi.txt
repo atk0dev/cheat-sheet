@@ -1,0 +1,35 @@
+j
+# go down
+
+k
+# go up
+
+q
+# exit
+
+vi new_vi_file.txt 
+# open or create file
+
+i
+# switch to insert mode
+
+c
+# switch to command mode
+
+esc key to exit from insert mode and swith to command mode
+
+x
+# remove current caracter
+
+dd
+# remove line
+
+:w 
+# save file
+
+:q
+# quit from editor
+
+:wq
+# save file and exit
+
