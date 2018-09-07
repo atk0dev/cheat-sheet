@@ -122,3 +122,12 @@ git merge feature-branch
 
 git branch -d feature-branch
 # remove feature branch
+
+git push origin feature-branch
+# push branch to remote
+
+git checkout origin remote-branch
+# checkout remote branch
+
+git remote -v show
+# show remote repos with urls
