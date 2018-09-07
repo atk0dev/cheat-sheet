@@ -101,3 +101,12 @@ git show "1.1"
 
 git push origin --tags
 # push tags to origin
+
+
+git branch new-branch-name
+# create new branch (but not move head pinter to it)
+
+git checkout new-branch-name
+# checkout branch (move head pinter to it)
+
+
