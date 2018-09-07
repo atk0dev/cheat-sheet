@@ -5,7 +5,8 @@ with several lines
 
 del this line
 
-
+this line added via feature branch
+ 
 just added new line
 
 this line is added in the master branch
