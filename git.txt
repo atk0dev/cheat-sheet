@@ -110,3 +110,15 @@ git checkout new-branch-name
 # checkout branch (move head pinter to it)
 
 
+git branch
+# show all branches and show current branch
+
+git checkout -b feature-branch
+# crete feature branch if it does not exist and check it out
+
+
+git merge feature-branch
+# merge feature-branch into current branch
+
+git branch -d feature-branch
+# remove feature branch
