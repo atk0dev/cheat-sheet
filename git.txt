@@ -131,3 +131,22 @@ git checkout origin remote-branch
 
 git remote -v show
 # show remote repos with urls
+
+
+git reset --soft HEAD~5
+# reset all committed changes and move them to uncommitted state
+# i have 5 commits and i can remove it from commit and set latest version of code unstaged 
+# --soft keeps all changes in working copy
+# branch should be unmerged
+
+git diff
+# shows changes
+
+git diff --staged
+# shows diff between current working copy and committed files
+
+git commit -v
+# committing changes and see all changes done in commit
+
+git push origin branch-name
+# push local branch to remote
