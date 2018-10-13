@@ -1,2 +1,51 @@
-Commands for ReSharper
+ - = Commands for ReSharper = - 
+
+Open tooltip
+Alt + Enter
+ 
+ 
+1. Search and Navigation
+
+Go to everything (Search everywhere)
+Ctrl + N
+
+Go to declaration
+Crtl + B
+
+Search everywhewre including class members
+Ctrl + Shift + Alt + N
+
+Go to method in current file
+Ctrl + F12
+
+Go to ReSharper action
+Ctrl + Shift + A
+
+Go to derived class
+Ctrl + Alt + B
+
+Go to base class
+Ctrl + U
+
+Navigate to
+Ctrl + Shift + G
+
+Navigate to hierarchy
+Ctrl + Alt + H
+
+
+Find usages
+Ctrl + Alt + F7
+
+
+2. Bookmarks
+
+Set/Remove bookmark
+Ctrl + Shift + 1
+
+Go to bookmark
+Ctrl + 1
+
+Show bookmarks menu
+Ctrl + ` 
 
