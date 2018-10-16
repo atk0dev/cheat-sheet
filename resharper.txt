@@ -49,3 +49,50 @@ Ctrl + 1
 Show bookmarks menu
 Ctrl + ` 
 
+
+3. Code assistance
+
+Show refactoring tip
+Alt + Enter
+
+Duplicate line or selection
+Ctrl + D
+
+Expand selection (in scope)
+Ctrl + W
+
+Move selection
+Ctrl + Shift + Alt + Arrow Up/Down
+
+Move selection in/out scope
+Ctrl + Shift + Alt + Arrow Left/Right
+
+Format selection
+Alt + Enter -> Format
+
+Complete statement
+Ctrl + Shift + Enter
+
+Show list of smart complition
+Ctrl + Shift + Space
+
+
+4. Code generation
+
+ctor
+ctorf
+ctorp
+ctorfp
+ps
+
+Show insert menu
+Alt + Insert
+
+Surround with code
+Alt + Enter -> menu
+
+Surround with code
+Ctrl + Alt + J
+
+Insert from template
+Ctrl + Alt + Insert
