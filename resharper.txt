@@ -96,3 +96,8 @@ Ctrl + Alt + J
 
 Insert from template
 Ctrl + Alt + Insert
+
+5. Refactoring
+
+Show refactoring menu
+Ctrl + Shift + R
